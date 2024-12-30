@@ -12,6 +12,7 @@ This project implements a basic blockchain in Go. Was made in order to get used 
 
 # Exemple
 
+```
 BlockChain:
 Difficuilty: 2
 Blocks:
@@ -35,3 +36,4 @@ Data: Second block
 PrevBlockHash: 0000f52b13ac594d4b87bdb17b03d6b2c7c64c5a8ab5c01bb04ac032f5fa1202
 Hash: 0000d8b28f2da8d5b97116036ac0281d8f057fbde9ab088c1c418da1189578a3
 Nonce: 91011
+```
