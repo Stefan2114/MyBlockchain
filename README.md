@@ -1,5 +1,5 @@
 # Simple Blockchain in Go
-This project implements a basic blockchain in Go, featuring:
+This project implements a basic blockchain in Go. Was made in order to get used to the language.
 
 * **Block Structure:** Each block contains an index, timestamp, data, the hash of the previous block, the hash of the current block, and a nonce used for mining.
 * **Mining Mechanism:** Blocks are mined by iterating the nonce until the block's hash meets the difficulty requirements (leading zeros).
